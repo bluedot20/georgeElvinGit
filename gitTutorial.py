@@ -1,5 +1,5 @@
 
-print("Hello")
+print("MyName")
 
 print("This is a git tutorial")
 
