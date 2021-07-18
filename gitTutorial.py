@@ -1,12 +1,15 @@
 
+print("Hello")
+
 print("This is a git tutorial")
 
 
 
 
 
-
-
+def oddOrEven(n): 
+	return n%2==1
+print("Hello")
 
 
 
